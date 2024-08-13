@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Anahid Rafieifar"
 title_separator          : "-"
 name                     : &name "Anahid Rafieifar"
 description              : &description "personal description"
@@ -25,8 +25,8 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Iran"
+  employer         : "MBNRG"
   uri              : # URL
   email            : "anahid.rafieifar@gmail.com" 
 
