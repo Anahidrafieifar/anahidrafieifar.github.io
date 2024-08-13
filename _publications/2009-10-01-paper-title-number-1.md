@@ -3,4 +3,4 @@ title: "Paper Title Number 1"
 collection: publications
 category: manuscripts
 
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S1874490721001737'
