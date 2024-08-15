@@ -8,7 +8,9 @@ main:
   - title: "Publications"
     url: 'https://anahidrafieifar.github.io/publications'
 
-     
+       - title: "Anahid's posts"
+    url: 'https://anahidrafieifar.github.io/posts'
+    
   - title: "CV"
     url: /cv/
   
