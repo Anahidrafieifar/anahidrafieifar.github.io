@@ -9,7 +9,7 @@ main:
     url: /publications/
 
        - title: " posts"
-    url: 'https://anahidrafieifar.github.io/year-archive'
+    url: 'year-archive'
     
   - title: "CV"
     url: /cv/
